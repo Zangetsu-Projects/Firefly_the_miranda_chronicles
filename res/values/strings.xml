@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Firefly: The Miranda Chronicles</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string-array name="acts">
+        <item >Act 1</item>
+    </string-array>
+    <string-array name="progress">
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+        <item >4</item>
+        <item >5</item>
+        <item >6</item>
+        <item >7</item>
+        <item >8</item>
+        <item >9</item>
+        <item >10</item>
+        <item >11</item>
+        <item >12</item>
+        <item >13</item>
+        <item >14</item>
+        <item >15</item>
+        <item >16</item>
+        <item >17</item>
+        <item >18</item>
+        <item >19</item>
+        <item >20</item>
+        <item >21</item>
+        <item >22</item>
+        <item >23</item>
+        <item >24</item>
+        <item >25</item>
+        <item >26</item>
+        <item >27</item>
+        <item >28</item>
+        <item >29</item>
+        <item >30</item>
+        <item >31</item>
+        <item >32</item>
+        <item >33</item>
+        <item >34</item>
+        <item >35</item>
+        <item >36</item>
+        <item >37</item>
+        <item >38</item>
+        <item >39</item>
+        <item >40</item>
+    </string-array>
+    <string name="InfoValue1">&#8226; The streets are littered with dead people, something disasterous happened here</string>
+    <string name="InfoValue2">&#8226; An abandoned lab with no sign of a struggle, whatever happened here it wasnt initially violent</string>
+    <string name="InfoValue3">&#8226; You find a hidden exit</string>
+    <string name="InfoValue4">&#8226; Whatever those men in red are they appear to be hungry, so hungry that they want to eat you alive ... seriously when does something like that that get fun?!?</string>
+    <string name="InfoValue5">&#8226; A computer password, all you need now is somewhere to use it</string>
+    <string name="InfoValue6">&#8226; Someone is going around destroying all the equipment, including the computers, just as you get a password for them. Perhaps its those men in red</string>
+    <string name="InfoValue7">• All the equipment in this lab is destroyed, whater happened here was fast and violent, maybe a hostile takeover by the military ... Somehow this information doesnt seem right.</string>
+    <string name="InfoValue8">&#8226; Men in the distance walking in formation, that doesnt seem like something the men in red would do. The glint of purple on their clothing seems important</string>
+    <string name="InfoValue9">&#8226; test</string>
+    <string name="InfoValue10">&#8226; test</string>
+
+</resources>
